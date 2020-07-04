@@ -6,3 +6,13 @@
  */
 
 module.exports = {};
+
+
+/*
+
+ async find(ctx){
+   const prodct = await strapi.services.product.find(ctx.query);
+   return products.map(product=>products.title)
+ }
+
+*/

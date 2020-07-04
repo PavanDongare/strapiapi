@@ -6,3 +6,14 @@
  */
 
 module.exports = {};
+
+
+/*
+
+find(params,populate){
+  console.log('service call')
+  return strapi.query('product').find(params,populate) // same response
+}
+
+
+*/
