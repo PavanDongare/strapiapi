@@ -8,4 +8,12 @@ so far only advantage?
    sign in 
    login 
    password confirmation
+   for every table in db
+      get by id
+      post by id
+      delete by id
+      get all
+      
+      
       these are automatically created
+
