@@ -1,1 +1,11 @@
 https://www.youtube.com/watch?v=6FnwAbd2SDY
+
+1) no compulsory 'relation' fields possible ?
+2) no raw sql allowed? only orm access to database?
+
+so far only advantage?
+1) auth table
+   sign in 
+   login 
+   password confirmation
+      these are automatically created
